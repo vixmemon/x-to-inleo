@@ -1,0 +1,11 @@
+background.js
+content.js
+keychain-bridge.js
+manifest.json
+popup.html
+popup.js
+styles.css
+icon.svg
+icons/
+.DS_Store
+node_modules/
